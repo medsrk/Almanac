@@ -10,4 +10,4 @@ An autobattler. This repository holds its releases only.
 The launcher installs the game and keeps it up to date every time you open it.
 
 
-**Guides**: [Night Market](https://github.com/medsrk/Almanac/raw/main/guides/night_market_guide.pdf) (PDF download): every unit, trait, item and augment in the set.
+**Guides**: [Night Market](https://medsrk.github.io/Almanac/guides/night_market.html), every unit, trait, item and augment in the set ([PDF](https://github.com/medsrk/Almanac/raw/main/guides/night_market_guide.pdf)).
