@@ -2,12 +2,21 @@
 
 An autobattler. This repository holds its releases only.
 
-![A fight in the Night Market set](screenshots/fight.png)
+![The main menu](screenshots/home.png)
+
+**Dead Sun**: gothic, under a dying sun that sets at Dusk and goes out at the Eclipse.
 
 | | |
 |---|---|
-| ![Planning: shop, bench and an augment choice](screenshots/planning.png) | ![Abilities going off mid-fight](screenshots/abilities.png) |
-| ![The recipe book](screenshots/recipes.png) | ![The main menu](screenshots/home.png) |
+| ![A Dead Sun fight](screenshots/dead_sun_fight.png) | ![Planning in Dead Sun](screenshots/dead_sun_planning.png) |
+| ![Dead Sun's recipe book](screenshots/dead_sun_recipes.png) | |
+
+**Night Market**: ink and paper under strung lanterns.
+
+| | |
+|---|---|
+| ![A Night Market fight](screenshots/night_market_fight.png) | ![Planning in Night Market](screenshots/night_market_planning.png) |
+| ![Night Market's recipe book](screenshots/night_market_recipes.png) | |
 
 **To play**, download the launcher for your system once:
 
